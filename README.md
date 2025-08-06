@@ -1,7 +1,13 @@
 # python_learning
 
-This project contains public data that may be required for different projects.
+Bu proje, Python programlama dili öğrenme sürecinde kullanılan çeşitli veri setlerini ve örnekleri içerir. Doğal Dil İşleme (NLP) başta olmak üzere farklı alanlarda yapılacak çalışmalar için temel veri sağlar.
 
-* Information about Turkish provinces
-* Sample list of names and surnames for Natural Language Processing
-* Dictionary (consisting of Turkish words)
+## İçerik
+
+- Türkiye illeri hakkında bilgi verileri  
+- Doğal Dil İşleme projeleri için örnek isim–soyisim listeleri  
+- Türkçe kelimelerden oluşan örnek sözlük veri seti  
+
+## Amaç
+
+Bu repodaki içerikler, Python öğrenen öğrenciler ve NLP temelli uygulamalar geliştirmek isteyen geliştiriciler için örnek materyal sunar.
