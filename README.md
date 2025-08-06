@@ -1,7 +1,7 @@
 # python_egitimi
 
-Bu proje farklı projeler için gerekli olabilecek public verileri içermektedir. 
+This project contains public data that may be required for different projects.
 
-* Türkiye illeri hakkındaki bilgiler
-* Doğal Dil işleme için örnek isim ve soyisim listesi
-* Sözlük (Türkiye kelimelerinden oluşan)
+* Information about Turkish provinces
+* Sample list of names and surnames for Natural Language Processing
+* Dictionary (consisting of Turkish words)
