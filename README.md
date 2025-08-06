@@ -1,4 +1,4 @@
-# python_egitimi
+# python_learning
 
 This project contains public data that may be required for different projects.
 
